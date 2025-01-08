@@ -1,7 +1,4 @@
-curso de git rs
+Olá, me Chamo Luan!
 
-seila kkkkkk
-
-poggers
-
-adicionando no github
+Tenho 19 anos e atualmente curso sistemas de informação na UFBA.
+Atualmente trainee da TITAN.
